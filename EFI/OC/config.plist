@@ -677,18 +677,18 @@
                 <key>StartupPowerEvents</key>
                 <integer>0</integer>
                 <key>SystemProductName</key>
-                <string>iMac14,4</string>
+                <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>D25NNVYSFY0T</string>
+                <string>C02CH5YNP3XY</string>
                 <key>SystemUUID</key>
-                <string>406A0ED1-6451-431F-B5A4-C7C8B31040D4</string>
+                <string>71E8FCD9-85DF-4AE5-80B8-B221F98E0B85</string>
             </dict>
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>D25445700GUG36D1F</string>
+                <string>C02013600J90000AD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -700,11 +700,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac14,4</string>
+                <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>D25NNVYSFY0T</string>
+                <string>C02CH5YNP3XY</string>
                 <key>SystemUUID</key>
-                <string>406A0ED1-6451-431F-B5A4-C7C8B31040D4</string>
+                <string>71E8FCD9-85DF-4AE5-80B8-B221F98E0B85</string>
             </dict>
             <key>PlatformNVRAM</key>
             <dict>
@@ -715,13 +715,13 @@
                 <key>FirmwareFeaturesMask</key>
                 <data></data>
                 <key>MLB</key>
-                <string>D25445700GUG36D1F</string>
+                <string>C02013600J90000AD</string>
                 <key>ROM</key>
                 <data>ESIzRFVm</data>
                 <key>SystemSerialNumber</key>
-                <string>D25NNVYSFY0T</string>
+                <string>C02CH5YNP3XY</string>
                 <key>SystemUUID</key>
-                <string>406A0ED1-6451-431F-B5A4-C7C8B31040D4</string>
+                <string>71E8FCD9-85DF-4AE5-80B8-B221F98E0B85</string>
             </dict>
             <key>SMBIOS</key>
             <dict>
@@ -770,13 +770,13 @@
                 <key>SystemManufacturer</key>
                 <string></string>
                 <key>SystemProductName</key>
-                <string>iMac14,4</string>
+                <string>MacBookPro16,3</string>
                 <key>SystemSKUNumber</key>
                 <string></string>
                 <key>SystemSerialNumber</key>
-                <string>D25NNVYSFY0T</string>
+                <string>C02CH5YNP3XY</string>
                 <key>SystemUUID</key>
-                <string>406A0ED1-6451-431F-B5A4-C7C8B31040D4</string>
+                <string>71E8FCD9-85DF-4AE5-80B8-B221F98E0B85</string>
                 <key>SystemVersion</key>
                 <string></string>
             </dict>
